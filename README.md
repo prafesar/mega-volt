@@ -1,2 +1,3 @@
-# mega-volt
+# Mega Volt
+
 Electricity distribution network model
